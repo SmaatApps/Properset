@@ -1,0 +1,90 @@
+[02-Sep-2016 00:26:58 America/Denver] PHP Notice:  Undefined index: event_name in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:26:59 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +9119746671089, is not a mobile number' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(17): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
+[02-Sep-2016 00:27:55 America/Denver] PHP Notice:  Undefined index: event_name in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:27:56 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +9119746671089, is not a mobile number' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(17): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
+[02-Sep-2016 00:28:09 America/Denver] PHP Notice:  Undefined index: event_name in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:28:09 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +9119746671089, is not a mobile number' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(17): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
+[02-Sep-2016 00:28:15 America/Denver] PHP Notice:  Undefined index: event_name in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:29:20 America/Denver] PHP Notice:  Undefined index: event_name in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:29:20 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +913232323232, is not a mobile number' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(17): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
+[02-Sep-2016 00:33:41 America/Denver] PHP Notice:  Undefined index: event_name in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:33:42 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +3232323232, is not a mobile number' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(17): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
+[02-Sep-2016 00:33:54 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +3232323232, is not a mobile number' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(17): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
+[02-Sep-2016 00:33:57 America/Denver] PHP Notice:  Undefined index: event_name in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:36:03 America/Denver] PHP Notice:  Undefined index: rand in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:36:04 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Message body is required.' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(16): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
+[02-Sep-2016 00:36:11 America/Denver] PHP Notice:  Undefined index: rand in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:36:12 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Message body is required.' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(16): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
+[02-Sep-2016 00:44:26 America/Denver] PHP Notice:  Undefined index: rand in /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php on line 10
+[02-Sep-2016 00:44:26 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Message body is required.' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(16): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
+[02-Sep-2016 00:45:38 America/Denver] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The 'To' number +$numbers is not a valid phone number.' in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php:297
+Stack trace:
+#0 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home3/smaatapp/public_html/nectorv2/twilio/Services/sms_events.php(16): Services_Twilio_Rest_Messages->create(Array)
+#4 {main}
+  thrown in /home3/smaatapp/public_html/nectorv2/twilio/Services/Twilio.php on line 297
